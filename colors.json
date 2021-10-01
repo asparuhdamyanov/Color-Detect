@@ -1,0 +1,38 @@
+[
+  {
+    "name" : "red",
+    "base" : "f34638"
+  },
+  {
+    "name" : "orange",
+    "base" : "ff6318"
+  },
+  {
+    "name" : "yellow",
+    "base" : "ffda27"
+  },
+  {
+    "name" : "chartreuse",
+    "base" : "d1d951"
+  },
+  {
+    "name" : "grass green",
+    "base" : "2fb14b"
+  },
+  {
+    "name" : "teal",
+    "base" : "26a5a9"
+  },
+  {
+    "name" : "azure",
+    "base" : "0980fb"
+  },
+  {
+    "name" : "purple",
+    "base" : "a826b2"
+  },
+  {
+    "name" : "pink",
+    "base" : "ee6893"
+  }
+]
